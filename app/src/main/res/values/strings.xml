@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">homework3.3.3</string>
+    <string name="synch">Сохранить</string>
+    <string name="hint">Введите город</string>
+    <string name="text">КЫРГЫЗСТАН</string>
+    <string name="text1">Бишкек</string>
+    <string name="camera">Камера</string>
+    <string name="contacts">Позвонить</string>
+    <string name="google">Поиск</string>
+    <string name="camera3">Фото</string>
+    <string name="google3">Видео</string>
+    <string name="Vvedite">Введите номер телефона</string>
+    <string name="Zvon">Позвонить</string>
+</resources>
